@@ -15,7 +15,7 @@ import CreditDays from "scenes/creditDays";
 import Investments from "scenes/investments";
 import CNS1 from "scenes/cns1";
 import Members from "scenes/staffMembers";
-
+//Test
 //En las rutas que la ruta vacía me rediriga a la Landing page excepto que ya este logueado
 function App() {
   const mode = useSelector((state) => state.global.mode);
